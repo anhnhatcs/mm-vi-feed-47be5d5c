@@ -1,0 +1,5 @@
+state.db
+last_run.json
+logs/
+.run.lock
+__pycache__/
