@@ -3,3 +3,4 @@ last_run.json
 logs/
 .run.lock
 __pycache__/
+tests/fixtures/
